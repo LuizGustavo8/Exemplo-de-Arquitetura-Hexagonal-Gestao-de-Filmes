@@ -1,0 +1,11 @@
+-- Esquema do banco de dados
+-- Para criar/recriar o bd, digitar no diretório BD:
+--   rm bib.db
+--   sqlite3 bib.db < bib.schema
+
+create table filmes (isbn text, diretor text, titulo text);
+
+insert into filmes values ("1", "Francis Ford Coppola", "O Poderoso Chefão");
+insert into filmes values ("2", "Quentin Tarantino", "Pulp Fiction");
+insert into filmes values ("3", "Frank Darabont", "Um Sonho de Liberdade");
+
