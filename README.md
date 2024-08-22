@@ -50,3 +50,5 @@ Graças à separação de responsabilidades proporcionada pela Arquitetura Hexag
 ## Conclusão
 
 Este exemplo prático mostra como a Arquitetura Hexagonal pode ser aplicada em um projeto simples, proporcionando uma estrutura flexível e escalável. O código fonte está organizado de forma a facilitar a manutenção e a evolução do sistema, permitindo que novas funcionalidades sejam adicionadas com mínimo impacto no restante da aplicação.
+
+O Conteúdo deste exemplo segue o exemplo do professor Marco Tulio Valente e o livro Engenharia de Software Moderna: https://engsoftmoderna.info/artigos/arquitetura-hexagonal.html
